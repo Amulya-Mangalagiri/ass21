@@ -1,0 +1,8 @@
+D:\ass21\ass21\bin\Debug\ass21.exe.config
+D:\ass21\ass21\bin\Debug\ass21.exe
+D:\ass21\ass21\bin\Debug\ass21.pdb
+D:\ass21\ass21\obj\Debug\ass21.csproj.AssemblyReference.cache
+D:\ass21\ass21\obj\Debug\ass21.csproj.SuggestedBindingRedirects.cache
+D:\ass21\ass21\obj\Debug\ass21.csproj.CoreCompileInputs.cache
+D:\ass21\ass21\obj\Debug\ass21.exe
+D:\ass21\ass21\obj\Debug\ass21.pdb
